@@ -1,7 +1,7 @@
 echo "# Berserksitetest" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "Neutral test done."
 git branch -M main
 git remote add origin https://github.com/Soulexludwin/Berserksitetest.git
 git push -u origin main
